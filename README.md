@@ -7,7 +7,7 @@
 - `npm install`
 - `npx vite start`
 
-### In '/remote`
+### In `/remote`
 
 - `npm install`
 - `npx vite build --watch`
